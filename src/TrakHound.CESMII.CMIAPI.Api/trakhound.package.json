@@ -1,0 +1,9 @@
+﻿{
+  "id": "TrakHound.CESMII.CMIAPI.Api",
+  "category": "api",
+  "metadata": {
+    "publisher": "TrakHound",
+    "description": "Implementation of the CESMII CMIAPI (Common API for Contextualized Manufacturing Information) for use in the TrakHound Framework",
+    ".defaultRoute": "cesmii/cmiapi"
+  }
+}
